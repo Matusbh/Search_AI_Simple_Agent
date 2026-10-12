@@ -39,15 +39,7 @@ Mi primer proyecto con agentes de IA. Es un asistente de investigación sencillo
    ```powershell
    pip install -r requirements.txt
    ```
-3. Crea un archivo `.env` con tu clave de Anthropic:
-   ```
-   ANTHROPIC_API_KEY=tu_clave_aqui
-   ```
-4. Ejecuta el programa:
-   ```powershell
-   python main.py
-   ```
-5. Escribe lo que quieres investigar y mira el resultado en la terminal y en `research_output.txt`.
+3. Escribe lo que quieres investigar y mira el resultado en la terminal y en `research_output.txt`.
 
 ## Tecnologías
 
